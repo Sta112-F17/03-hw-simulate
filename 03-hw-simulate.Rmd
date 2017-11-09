@@ -1,0 +1,28 @@
+---
+title: "Simulating sampling distributions and null distributions"
+author: "Team Name"
+date: "November 9, 2017"
+output: 
+  html_document: 
+    fig_height: 4
+    highlight: pygments
+    keep_md: yes
+    theme: sandstone
+---
+
+### Load packages
+
+```{r packages, message=FALSE}
+# add packages you need here
+```
+
+### Part 1
+
+### Part 2
+
+### Part 3
+
+The rest is yours to format...
+
+and fill out ...
+
